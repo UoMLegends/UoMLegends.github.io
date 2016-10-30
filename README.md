@@ -1,2 +1,2 @@
-# UoMLegends.github.io
+# https://uomlegends.github.io/
 organisation site
